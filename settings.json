@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "staff_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Zox_smp_655.aternos.me:13148",
+    "port": 13148,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,9 +31,11 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "hehe i am a regular player",
+        "ap sab noob ho",
+        "hello!",
+        "kaise ho batao to",
+        "kaise ho sabi log its bot 2.0"
       ]
     },
     "chat-log": true,
