@@ -1,8 +1,8 @@
-{
+ {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "staff_bot_2.0",
-    "password": "",
+    "username": "staff_2",
+    "password": "hddft_655",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "hddft_655"
     },
     "anti-afk": {
       "enabled": true,
@@ -35,6 +35,19 @@
         "ap sab noob ho",
         "hello!",
         "kaise ho batao to",
+        "haan bhai legend ko sab maro sala",
+        "kaise ho MR.hamid",
+        "Arham bhai ap to special guest ho hamare",
+        "bhai ywr ye muje har koi kyu marta rehta hai",
+        "legend tuje gali du",
+        "hehe",
+        "mere pass console access hai",
+        "koi meri baat sun raha hai",
+        "itna bura bi ni hu",
+        "Hamid bro aj ka kya plan hai",
+        "sb log offline chale jaye ge mai akela pr jau ga",
+        "bohot sare to abi bi offline hai",
+        "kaisa laga mai bot 2.0",
         "kaise ho sabi log its bot 2.0"
       ]
     },
